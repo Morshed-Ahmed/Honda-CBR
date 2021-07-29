@@ -1,6 +1,29 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#home-img{
+    width: 552px;
+    height: 447px;
+}
+
+#grayscale-img {
+    filter: grayscale(100%);
+  }
+
 #img-icon{
     width: 2rem;
 }
 
+#honda-img{
+    width: 288px;
+    height: 243px;
+}
+
+#faq-img{
+    width: 424px;
+    height: 397px;
+}
 
 
